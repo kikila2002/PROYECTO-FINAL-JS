@@ -1,0 +1,101 @@
+[
+    {
+        "modelo": "Granada",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "granada.jpg",
+        "id" : 1
+        
+    },
+    {
+        "modelo": "Soy",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "soy.jpg",
+        "id" : 2
+        
+    },
+    {
+        "modelo": "Flash",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "flash.jpg",
+        "id" : 3
+        
+    },
+    {
+        "modelo": "Flash Rosa",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "flashrosa.jpg",
+        "id" : 4
+        
+    },
+    {
+        "modelo": "Batman",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "batman.jpg",
+        "id" : 5
+        
+    },
+    {
+        "modelo": "Batman Rosa",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "batmanrosa.jpg",
+        "id" : 6
+        
+    }, {
+        "modelo": "Super Man",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "superman.jpg",
+        "id" : 7
+        
+    },
+    {
+        "modelo": "Super Man Rosa",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "supermanrosa.jpg",
+        "id" : 8
+        
+    },
+    {
+        "modelo": "Huellita",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "patita.jpg",
+        "id" : 9
+        
+    },
+    {
+        "modelo": "Capitan America",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "capitanamerica.jpg",
+        "id" : 10
+        
+    },
+    {
+        "modelo": "Simba",
+        "nombre": "Chapita Identificadora",
+        "precio": 700,
+        "stock": 1,
+        "img": "simba.jpg",
+        "id" : 11
+        
+    }
+
+]
